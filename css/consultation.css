@@ -86,7 +86,7 @@
             #right #tel {width: 62%; border: 1px solid #ddd; padding: 0.5rem;}
             #right #sanka {width: 64%; border: 1px solid #ddd; padding: 0.5rem;}
             #right #sanka_02 {width: 64%; border: 1px solid #ddd; padding: 0.5rem;}
-            #right #date {width: 30%; border: 1px solid #ddd; padding: 0.5rem;}
+            #right .date {width: 30%; border: 1px solid #ddd; padding: 0.5rem;}
             #right #message {width: 62%; border: 1px solid #ddd; padding: 0.5rem;}
             #right .submit {width: 59%; border: 1px solid #ddd; padding: 0.5rem; margin: 0 2rem; font-size: 1.5rem; 
                 color: white; background-color: coral; border-radius: 5px; text-align: center; box-shadow: 5px 5px 20px rgba(92, 86, 85, 0.2);}
